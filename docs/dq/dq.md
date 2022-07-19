@@ -12,3 +12,6 @@ merge --squash features
 merge --squash features
 
 dsbsfb
+merge --squash features
+
+dsbsfb
