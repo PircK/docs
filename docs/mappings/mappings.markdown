@@ -9,3 +9,10 @@ permalink: /docs/mappings
 # Welcome to mappings!
 
 Here you can find a list of all mappings.
+
+clkvn
+vvmjdčv
+lkačn.vnča
+
+čdkvnčsd
+lkasnvlkd
